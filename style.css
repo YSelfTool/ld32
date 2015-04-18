@@ -1,0 +1,11 @@
+#main {
+    text-align: center;
+}
+
+#canvas-game {
+    background-color: #eeeeee;
+}
+
+#canvas-fft {
+    background-color: #dddddd;
+}
